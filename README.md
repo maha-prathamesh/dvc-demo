@@ -1,5 +1,7 @@
+``` bash
 conda activate mlops
 pip install -r requirements.txt
+```
 
 
 
